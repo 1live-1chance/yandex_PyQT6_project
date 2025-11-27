@@ -59,8 +59,18 @@
 
 ## Установка
 
-1. Клонируйте репозиторий:
-
    ```bash
    git clone <repository-url>
    cd digit_recognition_app
+   ```
+
+## Использование
+
+   ```bash
+   python -m venv .venv  # (python3 для macOS)
+   source .venv/bin/activate
+   pip install -r requirements.txt
+   python main.py
+   ```
+
+   Далее нарисуйте цифру (от 0 до 9) на холсте и нажмите кнопку распознать
