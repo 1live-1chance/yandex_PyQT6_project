@@ -1,4 +1,5 @@
 absl-py==2.3.1
+altgraph==0.17.5
 astunparse==1.6.3
 certifi==2025.11.12
 charset-normalizer==3.4.4
@@ -10,6 +11,7 @@ h5py==3.15.1
 idna==3.11
 keras==3.12.0
 libclang==18.1.1
+macholib==1.16.4
 Markdown==3.10
 markdown-it-py==4.0.0
 MarkupSafe==3.0.3
@@ -23,6 +25,8 @@ packaging==25.0
 pillow==12.0.0
 protobuf==6.33.1
 Pygments==2.19.2
+pyinstaller==6.17.0
+pyinstaller-hooks-contrib==2025.10
 PyQt6==6.10.0
 PyQt6-Qt6==6.10.0
 PyQt6_sip==13.10.2
